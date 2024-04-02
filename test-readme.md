@@ -1,4 +1,6 @@
-![Studio_Project](Studio_Project.gif)
+<img src="banner.gif" width='100%'/>
+ 
+</div>
 <br>
 <br>
 
