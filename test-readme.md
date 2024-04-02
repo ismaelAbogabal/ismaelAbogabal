@@ -16,16 +16,15 @@
 ### Here are some fun facts about me:
 
 - 💻 I enjoy solving complex problems and fixing technical issues.
-- 🚀 I’m currently working at TaxiTR as a Backend Developer.
+- 🚀 I’m currently working as A Full-Stack nodejs freelancer.
 - 👥 I’m looking to collaborate with people with Amazing Ideas.
   <br/>
 
 ## 📩 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/usamashehab/)
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:usama.shehab173@gmail.com)
-[<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/usama.shehab.792/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/usamashehab/](https://www.linkedin.com/in/ismael-abogabal-3608a618b/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gabalismael@gmail.com) 
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~013185f1270a345396)
 
 <br/>
 <br>
