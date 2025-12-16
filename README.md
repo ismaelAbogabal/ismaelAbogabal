@@ -10,7 +10,7 @@
 ### Here are some fun facts about me:
 
 - 💻 I enjoy solving complex problems and fixing technical issues.
-- 🚀 I’m currently working as A Full-Stack nodejs freelancer.
+- 🚀 I’m currently working as A Full-Stack Golang freelancer.
 - 👥 I’m looking to collaborate with people with Amazing Ideas.
   <br/>
 
